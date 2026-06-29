@@ -63,6 +63,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="змейка, поедающая коммиты" />
+  <img src="https://raw.githubusercontent.com/nench-ru/nench-ru/output/snake.svg" alt="змейка, поедающая коммиты" />
 </p>
 
