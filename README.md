@@ -11,7 +11,7 @@
 ### 🚀 Сейчас работаю над
 
 <p align="center">
-  <a href="https://github.com/nench-ru/jop_parse">
+  <a href="https://github.com/nench-ru/jop-parse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nench-ru&repo=jop-parse&theme=radical&hide_border=true" />
   </a>
 </p>
