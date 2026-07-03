@@ -11,9 +11,9 @@
 ### 🚀 Сейчас работаю над
 
 <p align="center">
-  <a href="https://github.com/nench-ru/job-parse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nench-ru&repo=job-parse&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/github/stars/nench-ru/job-parse?style=for-the-badge&logo=github&color=FF4500" />
+  <img src="https://img.shields.io/github/last-commit/nench-ru/job-parse?style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/languages/top/nench-ru/job-parse?style=for-the-badge&color=success" />
 </p>
 
 **jop_parse** — умный парсер вакансий с аналитикой. Парсит 6 сайтов по поиску работы (HH, Habr, SuperJob, GeekJob, Rabota, Trudvsem), извлекает навыки, строит статистику зарплат.  
@@ -47,6 +47,7 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nench-ru&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nench-ru&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/stars/nench-ru?style=for-the-badge&logo=github&label=Всего%20звёзд" />
+  <img src="https://img.shields.io/github/last-commit/nench-ru/job-parse?style=for-the-badge&label=Последний%20коммит" />
+  <img src="https://img.shields.io/github/languages/count/nench-ru/job-parse?style=for-the-badge&label=Языков" />
 </p>
